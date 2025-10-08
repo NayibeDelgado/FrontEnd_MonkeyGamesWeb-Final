@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "Andrés Alfonso",
+    "correo": "andres@monkeygames.com",
+    "contrasena": "admin123",
+    "rol": "Administrador"
+  },
+  {
+    "id": 2,
+    "nombre": "Carlos Pérez",
+    "correo": "carlos@gmail.com",
+    "contrasena": "padawan01",
+    "rol": "Padawan"
+  },
+  {
+    "id": 3,
+    "nombre": "María Gómez",
+    "correo": "maria@outlook.com",
+    "contrasena": "yoda2025",
+    "rol": "Maestro Yoda"
+  }
+]

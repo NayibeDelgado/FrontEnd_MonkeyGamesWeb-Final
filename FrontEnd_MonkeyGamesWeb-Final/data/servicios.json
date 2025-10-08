@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "nombre": "Consola Xbox Series X",
+    "precio": 3200000,
+    "descripcion": "Consola de última generación con 1 TB SSD y soporte 4K.",
+    "cantidad": 10,
+    "promocion": true,
+    "imagen": "assets/images/xbox-series-x.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Consola PlayStation 5",
+    "precio": 3400000,
+    "descripcion": "Consola PS5 con control DualSense y 825 GB SSD.",
+    "cantidad": 8,
+    "promocion": false,
+    "imagen": "assets/images/ps5.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Consola Nintendo Switch OLED",
+    "precio": 2000000,
+    "descripcion": "Versión OLED con pantalla mejorada y Joy-Con rediseñados.",
+    "cantidad": 6,
+    "promocion": true,
+    "imagen": "assets/images/nintendo-oled.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Call of Duty: Modern Warfare III",
+    "precio": 280000,
+    "descripcion": "Shooter de acción con modo multijugador y campaña.",
+    "cantidad": 20,
+    "promocion": false,
+    "imagen": "assets/images/cod-mw3.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "God of War Ragnarök",
+    "precio": 290000,
+    "descripcion": "Acción épica y narrativa cinematográfica exclusiva de PS5.",
+    "cantidad": 15,
+    "promocion": true,
+    "imagen": "assets/images/gow-ragnarok.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Armado de PC Gamer Personalizado",
+    "precio": 500000,
+    "descripcion": "Servicio de armado de PC con asesoría técnica especializada.",
+    "cantidad": 50,
+    "promocion": false,
+    "imagen": "assets/images/pc-gamer.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Kit Logitech G Pro",
+    "precio": 450000,
+    "descripcion": "Kit de teclado, mouse y audífonos profesionales para gaming.",
+    "cantidad": 25,
+    "promocion": false,
+    "imagen": "assets/images/logitech-kit.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Silla Gamer Cougar Armor S",
+    "precio": 950000,
+    "descripcion": "Silla ergonómica con soporte lumbar y diseño premium.",
+    "cantidad": 12,
+    "promocion": true,
+    "imagen": "assets/images/silla-gamer.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Soporte Técnico Especializado",
+    "precio": 150000,
+    "descripcion": "Diagnóstico y reparación de equipos gamer, consolas y PCs.",
+    "cantidad": 100,
+    "promocion": false,
+    "imagen": "assets/images/soporte.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Membresía Monkey Pass",
+    "precio": 60000,
+    "descripcion": "Suscripción mensual con descuentos exclusivos y soporte prioritario.",
+    "cantidad": 9999,
+    "promocion": true,
+    "imagen": "assets/images/monkey-pass.jpg"
+  }
+]
